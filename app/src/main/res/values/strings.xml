@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CD App</string>
+    <string name="add_cd">Add CD</string>
+    <string name="new_cd">New CD</string>
+    <string name="close">Close</string>
+    <string name="image">Image</string>
+    <string name="take_image">Take Image</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="date">Release Date</string>
+    <string name="domestic">Domestic</string>
+    <string name="origin">Label Origin :</string>
+    <string name="foreign">Foreign</string>
+    <string name="save">Save</string>
+    <string name="all_cd">All CD</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_cd">Edit CD</string>
+    <string name="update">Update</string>
+    <string name="album_name">Album Name</string>
+</resources>
